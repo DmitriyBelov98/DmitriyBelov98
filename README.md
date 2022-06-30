@@ -1,4 +1,4 @@
-<img src="https://github.com/DmitriyBelov98/DmitriyBelov98/main/banner.png" />
+<img src="https://github.com/DmitriyBelov98/DmitriyBelov98/blob/main/banner.png" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
