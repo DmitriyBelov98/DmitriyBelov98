@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dmitriy</h1>
-<h3 align="center">Try being frontend developer</h3>
+<img src="https://github.com/DmitriyBelov98/DmitriyBelov98/main/banner.png" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
